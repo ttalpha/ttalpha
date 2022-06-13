@@ -5,7 +5,7 @@
 
 - During my journey as a programmer, I've learned C#, Python and Javascript but Javascript/Typescript is my specialized language.
 
-**Technologies I have learned: **
+**Technologies I have learned**: 
 
 ![HTML](https://i.stack.imgur.com/KArro.png)
 ![CSS](https://i.stack.imgur.com/jeoN1.png)
