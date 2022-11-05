@@ -1,11 +1,13 @@
-**About me**: 
-- I'm a high school student. I've have been a programmer and web developer for more than a year. 
+**:man_technologist: About me**:
+- :telescope: I'm a high school student and I've have been a programmer and web developer for more than a year.
+- :zap: My interests are making web applications and solving problems on LeetCode, which I mostly do in my free time.
+- :seedling: I'm looking forward to collaborate with other developers to help me acquire more knowledge and level up my technical skills as well as learning more fields in software engineering like mobile development, desktop development, game development, etc. .
+- :mailbox: How to reach me out:
+  - [Facebook](https://www.facebook.com/alphazero.deepmind)
+  - [Linkedin](https://www.linkedin.com/in/tran-thai-anh-371826220/)
+---
 
-- My interests are making web applications and solving problems on Leetcode. I'm looking forward to collaborate with other developers to help me acquire more knowledge and level up my technical skills as well as learning more fields in software engineering like mobile development, desktop development, game development, etc. . 
-
-- During my journey as a programmer, I've learned C#, Python and Javascript but Javascript/Typescript is my specialized language.
-
-**Technologies I have learned**: 
+**:hammer_and_wrench: Technologies I have learned**:
 
 ![HTML](https://i.stack.imgur.com/KArro.png)
 ![CSS](https://i.stack.imgur.com/jeoN1.png)
@@ -24,13 +26,8 @@
 ![PostgreSQL](https://user-images.githubusercontent.com/83436069/173263836-0887e64a-c9b8-4f3e-b4ca-dc203259eddd.png)
 ![Visual Studio Code](https://user-images.githubusercontent.com/83436069/173263895-81d750c3-c66c-4479-ad9e-3fab65a96830.png)
 
-**Technology I intend to learn in the future**: 
-- Web 3.0
-- React Native
-- Unity
-- Elixir and Phoenix Framework
-- Ruby and Ruby on Rails
-- NestJS
-- RabbitMQ
-- AWS
-- Electron
+---
+
+**:fire: My Stats :**
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alphazero-wd&theme=dark&background=000000)](https://git.io/streak-stats)
