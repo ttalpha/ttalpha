@@ -1,7 +1,7 @@
 **:man_technologist: About me**:
-- :telescope: I'm a high school student and I've have been a programmer and web developer for more than a year.
+- :telescope: I'm a high school student and I've have been a programmer and web developer for two years.
 - :zap: My interests are making web applications and solving problems on LeetCode, which I mostly do in my free time.
-- :seedling: I'm looking forward to collaborate with other developers to help me acquire more knowledge and level up my technical skills as well as learning more fields in software engineering like mobile development, desktop development, game development, etc. .
+- :seedling: I'm looking forward to collaborating with other developers to help me acquire more knowledge and level up my technical skills as well as learning more in the fields of software development e.g. web/mobile/desktop/game development, etc.
 - :mailbox: How to reach me out:
   - [Facebook](https://www.facebook.com/alphazero.deepmind)
   - [Linkedin](https://www.linkedin.com/in/tran-thai-anh-371826220/)
