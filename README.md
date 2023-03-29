@@ -1,9 +1,8 @@
 **:man_technologist: About me**:
-- :telescope: I'm a high school student and I've have been a programmer and web developer for two years.
+- :telescope: I've have been a programmer for over 2 years and have had 1.5 years of experience as a full-stack web developer.
 - :zap: My interests are making web applications and solving problems on LeetCode, which I mostly do in my free time.
 - :seedling: I'm looking forward to collaborating with other developers to help me acquire more knowledge and level up my technical skills as well as learning more in the fields of software development e.g. web/mobile/desktop/game development, etc.
 - :mailbox: How to reach me out:
-  - [Facebook](https://www.facebook.com/alphazero.deepmind)
   - [Linkedin](https://www.linkedin.com/in/tran-thai-anh-371826220/)
 ---
 
