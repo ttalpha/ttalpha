@@ -4,6 +4,9 @@
 - :seedling: I'm looking forward to collaborating with other developers to help me acquire more knowledge and level up my technical skills as well as learning more in the fields of software development e.g. web/mobile/desktop/game development, etc.
 - :mailbox: How to reach me out:
   - [Linkedin](https://www.linkedin.com/in/tran-thai-anh-371826220/)
+  - [Twitter](https://twitter.com/ttalphazero)
+  - [Reddit](https://www.reddit.com/user/AlphaZeroFullStack/)
+  - [Medium](https://medium.com/@alphazero25811)
 ---
 
 **:hammer_and_wrench: Technologies I have learned**:
