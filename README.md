@@ -1,32 +1,35 @@
-**:man_technologist: About me**:
-- :telescope: I've have been a programmer for over 2 years and have had 1.5 years of experience as a full-stack web developer.
-- :zap: My interests are making web applications and solving problems on LeetCode, which I mostly do in my free time.
-- :seedling: I'm looking forward to collaborating with other developers to help me acquire more knowledge and level up my technical skills as well as learning more in the fields of software development e.g. web/mobile/desktop/game development, etc.
-- :mailbox: How to reach me out:
-  - [Linkedin](https://www.linkedin.com/in/tran-thai-anh-371826220/)
-  - [Twitter](https://twitter.com/ttalphazero)
-  - [Reddit](https://www.reddit.com/user/AlphaZeroFullStack/)
-  - [Medium](https://medium.com/@alphazero25811)
+## :man_technologist: About me
+
+:telescope: ~4 years working with software and ~1 year into AI stuff, still continuously learning new techs.
+
+:zap: Currently into building AI-powered software projects to solve my daily problems.
+
+:seedling: I'm looking forward to collaborate with developers and engineers in projects to learn new things.
+
 ---
 
-**:hammer_and_wrench: Technologies I have learned**:
+## :hammer_and_wrench: Technologies I have learned
 
-![HTML](https://i.stack.imgur.com/KArro.png)
-![CSS](https://i.stack.imgur.com/jeoN1.png)
-![Bootstrap](https://i.stack.imgur.com/sNQad.png)
-![TailwindCSS](https://i.stack.imgur.com/RofcN.png)
-![JS](https://i.stack.imgur.com/EukGl.png)
-![GitHub](https://i.stack.imgur.com/ebciS.png)
-![ReactJS](https://i.stack.imgur.com/uKQmK.png)
-![NodeJS](https://i.stack.imgur.com/jv2SO.png)
-![Express](https://i.stack.imgur.com/MsFo1.png)
-![MongoDB](https://i.stack.imgur.com/Xhy09.png)
-![GraphQL](https://i.stack.imgur.com/pPxrM.png)
-![Docker](https://i.stack.imgur.com/i9cSZ.png)
-![Typescript](https://i.stack.imgur.com/aSEOJ.png)
-![NextJS](https://i.stack.imgur.com/2PacG.png)
-![PostgreSQL](https://user-images.githubusercontent.com/83436069/173263836-0887e64a-c9b8-4f3e-b4ca-dc203259eddd.png)
-![Visual Studio Code](https://user-images.githubusercontent.com/83436069/173263895-81d750c3-c66c-4479-ad9e-3fab65a96830.png)
+### Know well
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" /></span>
+
+### Know to some extent and have used in some projects
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" /></span>
+
+### Know when building AI models
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /></span>
+<span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /></span>
 
 ---
 
