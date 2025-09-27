@@ -31,7 +31,7 @@
 <span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></span>
 <span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" /></span>
 <span><img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" /></span>
-
+<span><img width="50px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" /></span>
 ## :fire: My Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ttalpha)](https://git.io/streak-stats)
