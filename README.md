@@ -34,4 +34,4 @@
 <span><img width="50px" src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" /></span>
 ## :fire: My Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ttalpha)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=alphatrann)](https://git.io/streak-stats)
